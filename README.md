@@ -1,2 +1,2 @@
 # testing
-belajar git
+testing git
